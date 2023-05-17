@@ -1,0 +1,6 @@
+name: MyfirstPlugin
+version: '${project.version}'
+main: com.hheylau.myfirstplugin.MyfirstPlugin
+api-version: 1.19
+authors: [ hey ]
+description: this is plugin

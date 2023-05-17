@@ -1,0 +1,11 @@
+name: Commandsender
+version: '${project.version}'
+main: com.hheylau.commandsender.Commandsender
+api-version: 1.19
+commands:
+  die:
+    description: An easy way to kill yourself
+    usage: /<command>
+  poop:
+    description: on9
+    usage: /<player>

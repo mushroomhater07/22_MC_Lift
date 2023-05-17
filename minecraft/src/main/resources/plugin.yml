@@ -1,0 +1,5 @@
+name: Lift
+version: '${project.version}'
+main: com.hheylau.lift.Lift
+api-version: 1.19
+description: tp though iron block

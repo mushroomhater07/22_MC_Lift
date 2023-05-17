@@ -1,0 +1,5 @@
+name: Eventlistener
+version: '${project.version}'
+main: com.hheylau.eventlistener.Eventlistener
+api-version: 1.19
+
